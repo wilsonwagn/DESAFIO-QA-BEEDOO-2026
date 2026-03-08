@@ -97,8 +97,8 @@ Todas as análises, priorizações e conclusões foram revisadas e validadas com
 | Recurso | Link |
 |---------|------|
 | Aplicação testada | [https://creative-sherbet-a51eac.netlify.app/](https://creative-sherbet-a51eac.netlify.app/) |
-| Planilha de cenários (Google Sheets) | *[A ser preenchido]* |
-| Evidências (Google Drive) | *[A ser preenchido]* |
+| Planilha de cenários (Google Sheets) | *https://docs.google.com/spreadsheets/d/1943woAhpSMzRH10XdFBbV_Nn7lLkYohOY-HwRd1ls68/edit?usp=sharing* |
+| Evidências (Google Drive) | *Dentro da pasta "evidencias" nesse mesmo repositório* |
 
 ---
 
