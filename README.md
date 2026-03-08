@@ -1,11 +1,3 @@
-# DESAFIO-QA-BEEDOO-2026
-
-## 📋 Sobre o Desafio
-
-Este repositório contém a documentação completa da **Etapa 1** do Desafio QA Beedoo 2026, que consiste na análise e teste do módulo de cadastro e listagem de cursos disponível em:
-
-🔗 **Aplicação:** [https://creative-sherbet-a51eac.netlify.app/](https://creative-sherbet-a51eac.netlify.app/)
-
 ---
 
 ## 🔍 Análise Inicial da Aplicação
